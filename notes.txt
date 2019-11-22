@@ -1,0 +1,22 @@
+
+ * Import brac_loan.sql database file.
+
+ * config/config.php contains database access information
+
+
+http://localhost/microloan
+
+Brach officer Login Access:
+
+E-mail : branch@gmail.com
+Password:  123
+---------------------
+Head officer Login Access: 
+
+E-mail :  head@gmail.com
+pasword: 123
+----------------------
+Varifier Login access
+
+E-mail : var@gmail.com
+password: 123
